@@ -18,7 +18,7 @@ function convM(id, val){
         ariary.value = val * 9.74;
         euro.value = val * 0.0020;
     }else if(id == "fmg"){
-        fc.value = val * 0.10286;
+        fc.value = val *0.20495;
         ariary.value = val * 0.2006;
         euro.value = val * 0.0000414102;
     }else if(id == "ariary"){
